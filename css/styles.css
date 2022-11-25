@@ -1,0 +1,48 @@
+
+body {background-color: #22A39F;}
+
+hr {border-color: #FFFFFF;
+    border-width: 5px;
+    border-style: dotted none none none;
+    width: 5%;
+    }
+
+h1 {text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: #222222
+    }
+h2 {text-align: center;
+    font-size: 3em;
+    font-weight: bold;
+    color: #660066
+    }
+h3 {text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #222222
+    }
+h4 {text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color: #222222
+    }
+h5 {text-align: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #222222
+    }
+h6 {text-align: center;
+    font-size: 1em;
+    font-weight: bold;
+    color: #222222
+    }
+
+    /* This is a single-line comment */
+    /* CSS Classes */
+
+    .link {color: #003333;}
+
+    /* CSS IDs */
+
+    #heading {color: #009999;}
